@@ -1,1 +1,1 @@
-# 🪙 Crypto Data Analyzer
+# Crypto Data Analyzer
